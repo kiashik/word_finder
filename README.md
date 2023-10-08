@@ -1,1 +1,3 @@
-# cpe101_project4
+# Project: Word Finder
+
+COME back to add info 
